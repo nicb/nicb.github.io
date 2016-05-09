@@ -6,16 +6,22 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: nicb
+email_name: nicb at santa cecilia
+email_url: n.bernardini@conservatoriosantacecilia.it
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Nicb's personal website. Nicb is also known as Nicola Bernardini,
+  an italian composer from Rome well known to be out of sync with his schedule.
+  I guess he hopes to be out of sync with EOL, too.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+imageurl: '/img/'
+url: 'https://nicb.github.io' # the base hostname & protocol for your site
+twitter_username: nbernardini
+github_username:  nicb
+academia_username: NicolaBernardini
+slideshare_username: NicolaBernardini2
+soundcloud_username: nicb-4
+nicb_icon: nicb-low-gray-192x192.png
 
 # Build settings
 markdown: kramdown
