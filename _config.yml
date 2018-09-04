@@ -7,8 +7,8 @@
 
 # Site settings
 title: nicb
-email_name: nicb at santa cecilia
-email_url: n.bernardini@conservatoriosantacecilia.it
+email_name: nicb at Conservatorio Pollini Padova
+email_url: n.bernardini@conservatoriopollini.it
 description: > # this means to ignore newlines until "baseurl:"
   Nicb's personal website. Nicb is also known as Nicola Bernardini,
   an italian composer from Rome well known to be out of sync with his schedule.
@@ -21,6 +21,7 @@ github_username:  nicb
 academia_username: NicolaBernardini
 slideshare_username: NicolaBernardini2
 soundcloud_username: nicb-4
+orcid_username: nicola.bernardini@conservatoriopollini.it
 nicb_icon: nicb-low-gray-192x192.png
 
 # Build settings
